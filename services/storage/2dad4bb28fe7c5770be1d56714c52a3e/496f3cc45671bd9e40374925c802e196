@@ -1,0 +1,10 @@
+dim a,b
+a = 2.7
+b = 2.4
+
+if (a = b) then
+   prints("EQUAL")
+   prints("ARE YOU SURE VROBY?")
+end if
+prints(
+waitkey
