@@ -17,11 +17,11 @@
 	<link rel="stylesheet" type="text/css" href="theme.css" media="all" />	
 </head>
 <body id='body'>
-	<!-- layout --------------------------------------------------------------->
+	<!--                ** layout ***************                             -->
 	<div id='div-title' ><?php include "pages/title.php"; ?></div>
 	<div id='div-sidebar'><?php include "pages/sidebar.php"; ?></div>
 	<div id='div-textpage'><?php include "pages/$page"; ?></div>
 	<div id='div-footer'><?php include "pages/footer.php"; ?></div>
-	<!------------------------------------------------------------------------->
+	<!--                *************************                             -->
 </body>
 </html>
