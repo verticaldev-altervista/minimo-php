@@ -1,2 +1,3 @@
 # minimo-php
-minimo is a standard base for website
+minimo is a minimal standard base for website
+
